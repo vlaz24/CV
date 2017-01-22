@@ -1,0 +1,72 @@
+nav li
+{
+	display: inline-block;
+}
+a 
+{
+   text-decoration: none;
+   color: red;
+   font-style: italic;
+   margin: 50px;
+}
+
+a:hover 
+{
+   text-decoration: underline;
+   color: pink;
+}
+a:active 
+{
+    background-color: #FFCC66;
+}
+a:focus 
+{
+    background-color: #FFCC66;
+}
+p
+{
+    font-family:Arial, Impact,"Arial Black", Verdana, sans-serif;
+	text-shadow: 2px 2px 4px black;
+	margin: 50px;
+}
+p:hover
+{
+text-decoration: underline;
+   color: green;	
+}
+h3
+{
+    font-size: 25px;
+    font-style: italic;
+	text-align: center;
+	color: blue;
+
+}
+h1
+{
+    font-size: 40px;
+	text-align: center;
+}
+h4
+{
+	 font-weight: bold;
+	 font-size: 25px;
+}
+h2{
+	font-size: 30px;
+    color: rgb(0,128,192);
+}
+
+.below
+{
+    clear: both;
+}
+mark
+{
+	background-color:#76D7C4 ;
+	color:red;
+}
+body
+{
+    background-image: url("images/snow.jpeg");
+}
